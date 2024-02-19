@@ -154,44 +154,6 @@ R² por distrito
 
 ### - Irei utilizar os distritos com no mínimo 50 imóveis
 
-</b></i>     
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</p>
-
 ---
 
 <p style=' font-size: 25px; line-height: 2; margin-top: 20px; margin: 0px 0px; text-align: justify; text-indent: 0px;text-indent: 0px; color: #DC143C;'>    
