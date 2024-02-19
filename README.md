@@ -266,13 +266,14 @@ widgets.VBox([titulo_interface, box_distrito, box_tipo, botao_prever, ])
 
 **Painel interativo**
 
-![9e69336d-96f1-4501-8dfb-f276ce7e13df](file:///C:/Users/Migue/OneDrive/Imagens/Typedown/9e69336d-96f1-4501-8dfb-f276ce7e13df.png)
+![image](https://github.com/MiguelFreire-bit/Aluguel_Imoveis-SP-ProjetoDS/assets/72529654/e935e187-bbcb-4772-861e-525b9d7bf39e)
 
 
 
 **Resposta**
 
-![29733bef-8752-4b7e-bff7-706efd5b4322](file:///C:/Users/Migue/OneDrive/Imagens/Typedown/29733bef-8752-4b7e-bff7-706efd5b4322.png)
+![image](https://github.com/MiguelFreire-bit/Aluguel_Imoveis-SP-ProjetoDS/assets/72529654/457eb0b4-a0e3-418f-a0f0-564b2d73a9b6)
+
 
 ---
 
